@@ -1,0 +1,21 @@
+Key,English,Chinese (Simplified),Chinese (Traditional),Japanese,Korean
+Play,Play,开始,開始,スタート,시작
+Death,Death,死亡,死亡,デス,사망
+Back,Back,返回,返回,戻る,돌아가기
+Respawn,Respawn,重生,重生,リスポーン,리스폰
+Pause,Pause,暂停,暫停,ポーズ,일시 정지
+Return to Lobby,Return to Lobby,返回大厅,返回大廳,ロビーに戻る,로비로 돌아가기
+Save Game,Save Game,存储游戏,儲存遊戲,セーブ,게임 저장
+Continue,Continue,继续游戏,繼續遊戲,コンティニュー,게임 계속하기
+Victory！,Victory！,游戏胜利！,遊戲勝利！,ゲームクリア！,게임 승리！
+Play Again,Play Again,再玩一次,再玩一次,リトライ,다시 플레이
+Inventory,Inventory,背包,背包,インベントリ,인벤토리
+Settings,Settings,设置,設定,オプション,설정
+Skill Tree,Skill Tree,技能树,技能樹,スキルツリー,스킬 트리
+Player,Player,玩家,玩家,プレイヤー,플레이어
+Loading,Loading,加载中,載入中,ロード中,로딩 중
+Delete Game,Delete Game,删除游戏,刪除遊戲,削除する,게임 삭제
+ExclusiveFullScreen,ExclusiveFullScreen,独占式全屏,,,
+FullScreenWindow,FullScreenWindow,无边框全屏,,,
+MaximizedWindow,MaximizedWindow,最大化窗口,,,
+Windowed,Windowed,窗口化模式,,,

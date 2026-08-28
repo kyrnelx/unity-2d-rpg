@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ae9bb57c4e444dc8883c65d85cb6ce0, type: 3}
+  m_Name: LightOrc
+  m_EditorClassIdentifier: 
+  enemyID: 0
+  coin: 400
+  maxHealth:
+    baseValue: 1000
+    modifiers: 
+  attackPower:
+    baseValue: 125
+    modifiers: 
+  magicPower:
+    baseValue: 0
+    modifiers: 
+  armor:
+    baseValue: 5
+    modifiers: 
+  magicResistance:
+    baseValue: 5
+    modifiers: 
+  agility:
+    baseValue: 2
+    modifiers: 
+  intelligence:
+    baseValue: 2
+    modifiers: 
+  strength:
+    baseValue: 2
+    modifiers: 
+  vitality:
+    baseValue: 2
+    modifiers: 
+  criticalPower:
+    baseValue: 2
+    modifiers: 
+  criticalChance:
+    baseValue: 2
+    modifiers: 
+  evasion:
+    baseValue: 0
+    modifiers: 
+  lighting:
+    baseValue: 0
+    modifiers: 
+  chill:
+    baseValue: 0
+    modifiers: 
+  ignite:
+    baseValue: 0
+    modifiers: 

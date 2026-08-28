@@ -1,0 +1,7897 @@
+fileFormatVersion: 2
+guid: daaddffa244602e43aca4dbd226d74b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_Icon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e9fd30c1c86547a3c48afd641e3b1
+      internalID: 1946807017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101974f3cdff3854788c689fb233e363
+      internalID: -1077997191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad4ca9a600f14c448bd190fd5d8d680
+      internalID: 29986111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c739d78bf120ba42a9a499a6a26ebed
+      internalID: -2080273077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101435bc3618a014fa051dadb2ac6744
+      internalID: 327334094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f4acba57f46345a39d1aefad1a129
+      internalID: -105989361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6217c6be93fe3428728f0558ab19ce
+      internalID: 1379011839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c30370714d5de489806177aacaaba8
+      internalID: 529804289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573b7740febfa3a46b97956d80617458
+      internalID: -1566645256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a236932fd57d46a968951b5d9ae8d
+      internalID: -474472593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202a112eca8e2844adb2aaae20dc76f
+      internalID: 368813398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5621be3bade4eb45a8fdc82ca5412a1
+      internalID: 474753967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1ad2c4c15e254f86f095352d859dc
+      internalID: 1808633766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d89b226292aaf448018087c902d40c
+      internalID: -1891583400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f93a290d2d9c4fbbefecb16197080
+      internalID: -641562478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 834.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f779d0b6f2287d74f93002f70ccb214a
+      internalID: -886705577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a36fa0ebf8b24698dafbef962843e
+      internalID: 60151281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd36b62fee08044f91848f4e34b9801
+      internalID: -1549050578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f7b7db2f008043a76e7177565cb86
+      internalID: -1390768973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a80b65d8fbb7429e9f969e5462caf
+      internalID: -965063247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2014498a67ebe40a8bbeeeff238599
+      internalID: 259092889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed107319f7cbe40b94892fd52c7d15
+      internalID: -868688934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4d3e0e80cd0084ab2e28b0b2cf45a4
+      internalID: 312875448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0cb52d3751fcc488652830d9231d9b
+      internalID: 267652729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398dc9ece418d1a4c937208e9aaea849
+      internalID: -1983002612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb40bda8b6deb4f8afe9c3b24ef241
+      internalID: -953512045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a755387206ad4446b3addd89f0fa7f2
+      internalID: 1241343537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87b02142f9c47c40b90289b8beb6e15
+      internalID: 852341211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a1c4258706db49b9f1a0170319e77
+      internalID: 1952343450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6559dc27d1c569c4484dfb2894ad2bd7
+      internalID: 1013491918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c6fca242873b4f8543d9ac0ceea90
+      internalID: -1357479499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 802.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec182f5e1653764ca0c834da2c50eda
+      internalID: -1393688007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad7c4cd094a754bb5ff9d7cd31f899
+      internalID: 247166323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b182f9202f9341976bd507a5a7f6f
+      internalID: -1973664399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2542b4da4fb0d81438083279ec7338bd
+      internalID: 1443264079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd5ca1d7a9b31e4a8e5bf92595fb1eb
+      internalID: 1938562104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77eb6ef73ea00f4b865c4bcddc3b509
+      internalID: -1351819100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190d5dfeb26929040a71a6ce1f087c85
+      internalID: -1402739529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7d5af515a9cd488a4b27d2b801d36
+      internalID: -153022686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f67c357b079942a26cef6252f4357
+      internalID: 1840804521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c01b18dbd79247aca164b97c6af99
+      internalID: -573605222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270c266f6b2ad7745bfec00c227102bf
+      internalID: 1993004039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2196e961077f5348a89a8f330b37710
+      internalID: -1998481563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcba76766972b341b42bdca2d5c2d2a
+      internalID: -329597905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd45b5b3fb9f7324a8bcde76dfaf284f
+      internalID: 316592932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3f44a760a0564498c612a9a6219837
+      internalID: 1882950586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f308130edbe90b43b5d3530ab787597
+      internalID: -1901917666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 770.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14de23ea1ced15542b2958d7447da183
+      internalID: 609653010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba02cbd730ed949bc24a7963e0d8a6
+      internalID: 2086161267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209972385727c442ab4a3d1c4edd37d
+      internalID: 1752870847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be6166ff6a53c47ad3ceecde601fd0
+      internalID: -501677605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122249789105cb5498cffeeb0e84f8ba
+      internalID: -1297474007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f28f612ac8f824e89f7825d308a3f2
+      internalID: 1125651142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8935d163c52803547be46080fc1eca20
+      internalID: -1141024632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ea1a8bade478419046f7a72131784
+      internalID: 1356329049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fed48510450174cbecdb26ebd46f96
+      internalID: -452998086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62649d9cdbd49e94ab35e4ad939dc624
+      internalID: 719759120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c70d6f4e4224940b78746a2158114c
+      internalID: 1710921236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47097aa225074324bbda199a0fa2a7bd
+      internalID: 1267388593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cfba5cbe0f11f4880c31b5238ceca9
+      internalID: -1167373094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b5734af9f3326428abe6cd8ca018e8
+      internalID: -182313802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5fcfb9fd170b47a53f8950c8486a9
+      internalID: 121015595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b646ebd947dc86f4bb11b8341ba8c65d
+      internalID: -1688180699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 738.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73899a68f9ea1d44bad0a20e382a46a
+      internalID: 446559937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d005833b98082f842a4225ffdbd031bd
+      internalID: -28959705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4762fe25ab4697f40b44fc711072d7a9
+      internalID: 24982527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901a54a3e062a524cb7507bd51895e26
+      internalID: 1713840434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85514347740b1ba47930e73a52135181
+      internalID: -752051727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670310c8f6d03f14eb47646999f171a3
+      internalID: 180274974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65455b6bd5c7a5408f5a6bf49c836e8
+      internalID: 1826619574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7cc8eb5071f4542b9e945f04d3137a
+      internalID: -1726496802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d04b7e3c809846b8a9bc97c6db69e
+      internalID: -1987877638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0299ace4b28cbcd45a10dda3c3f385df
+      internalID: -692669922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdc44d627c95384cb78507c66f78819
+      internalID: -911846037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7952609af920d4cac60a933d634789
+      internalID: 1907152103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b63c65087e2034db45017e9b27a2a0
+      internalID: 1950789992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b286107a759e5640aaf28e51894ad3a
+      internalID: -1751816749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84196cc59598fcd4f9194d61524950a1
+      internalID: 300448671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188eb7a6f732a640a127242728281ab
+      internalID: -1380407048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 706.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54352704f60a5e48a0ad1c0c92c8e41
+      internalID: -1689789103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5615ea7e4132428ff46de148f5f7f
+      internalID: 1702170484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354baf7ce8517b746951beca61fef21a
+      internalID: -1811032127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e151303922b3004083aba64aa8804d7
+      internalID: -1986200607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5465e49b09170c94a921c76126299ead
+      internalID: 1413939833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c973f14b236b4cb0e012f630b6d6c
+      internalID: -1811652784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f39b09c3a54ff4d84c88919914aef3
+      internalID: 2020533816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23c0046f2e23241a083616cfe359b9
+      internalID: 169593364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e195fd4287624da8d719e137f1b16
+      internalID: 340415636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c876ced67b07c46a9b7f0f22df957a
+      internalID: -1842993013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d68b9d406bfd43b99c37c98c709ca
+      internalID: -114887094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d7103f6da62614b90e206e6d7e623d
+      internalID: -37357827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00c96dc99551864b97e3ae6492d5f1a
+      internalID: -730063354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186a4a655b38d143a6c6bf9c5956677
+      internalID: -1042343854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f8b6344e7ec84c8861e2f15564eb1
+      internalID: -623871807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fc60b764755ed4ea295179b9f6ba8f
+      internalID: -1608112617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 674.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f20a494596244596d2d14c48c9c4d
+      internalID: 736033370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb893edadf456ce48b11754fecde68e4
+      internalID: 801039544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e359a39f009ea548a074d288486e2e3
+      internalID: -1210939730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a638fefd2864f349b6e2ef6e0575d20
+      internalID: 552641973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114ac6a498edc974ea877e9fd988402e
+      internalID: 1171942655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3772d739af33574b8e2f22339bf5461
+      internalID: 2111469078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4702bba46b2f3694bb648f66199c0325
+      internalID: -354317492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ae1f1430a96c4180159b5611050f5
+      internalID: 817428599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f639445f0394c043bddc2bfc7095c95
+      internalID: 1913859658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba46b3efa9b3e34fa41e0798d46a3c8
+      internalID: -458752743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba970b03f07e114387e43ad9edb84e8
+      internalID: -1084667504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe9836a1ed1a5a4da4e3326953f5609
+      internalID: -259611338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d17e6e1d423fc84283ca7008eb7eb26
+      internalID: -746389506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d56561117fb2944b8f49e41ee0cb5a
+      internalID: 743912770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893265aa9ec8fa04bbb6d9d2f55191b9
+      internalID: -684001359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c375e782abeeec5448a8ee62b5913ae7
+      internalID: 794567465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 642.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298dac9c7e718304184f6aae3dbe9654
+      internalID: -1188076837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6354020ad65c1c04d8069ea6a0785942
+      internalID: 281416568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d9227d33bf3348aa9a4410ad5c818
+      internalID: -1001839889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315d1219b8a7cb43be74c7b943a2127
+      internalID: 1070640211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80dccc9ed79da041bd50d05a5a50ca9
+      internalID: 84553318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a3381e73ff564ab1fe7c93a20a332
+      internalID: 250488916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1436f433d1ee849b64c9bcc48cbae7
+      internalID: 411450341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f54c7e520bcb3449cc64e415965f6d
+      internalID: 1330675786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6470d3b4435d7e6409ca19c580f56be6
+      internalID: 1928139634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54146adf06125d478e93ce3d1689956
+      internalID: 1461683634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c67276b0543c44ea6e9f3fb743eb97
+      internalID: -927403481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2602c6706be342e499fef658f04d3fc8
+      internalID: 473069582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef54077bf799440bf471272ddc2833
+      internalID: 988634446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6394e6e75ba71408d4825ed04d4ccb
+      internalID: 1756353473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ee716f88108fc42ac3e49649d2fac3
+      internalID: -1982152488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c2a708099bf841a8075f9099a32ac
+      internalID: -1947321459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 610.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90d69587b1045943826541b2db60277
+      internalID: -832653772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1937758df21b7944ad1f6ebc542c72e
+      internalID: -2007674119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb423119e44b59d4b971835d86405439
+      internalID: 569525983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a607221fd032c489720300ce9beb46
+      internalID: 2086662516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0ffd6afec2ed04595101a45016b249
+      internalID: 1316491697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aa57b62827c4548be07cea1cfe0a96
+      internalID: 1379394790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708d2377750b85b468f8ddda0badef19
+      internalID: 478851170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb24ecba873954ab756d566bbea701
+      internalID: 1507681996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab93cad0ce01f4aaec6455d5a4e354
+      internalID: -1964620643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c914d20a2a01b6445bdf37caee7ab46b
+      internalID: 1965709577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e3ae9966dccb459f5495ba19fc2da
+      internalID: -1945429462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8292c6c7ea3001a45ae428178080c5ca
+      internalID: -673774137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103b0c8ae36efc243874667a30307528
+      internalID: 375007239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76332af48b7417439f6bca922f1f4a7
+      internalID: 1818962304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99316e4a6bc7e94e9f076abd736ed43
+      internalID: 862398067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977052e0f9c9c9f4fa6860391cfb13f0
+      internalID: 1019508472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 578.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8feb5eb32a37244a77f7ea2ab2c437
+      internalID: -526460394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458c4415b65da2445b704a1ee8d179da
+      internalID: 1306365136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3899741ff037d4885c1bca63cf567c
+      internalID: -486686475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58dcbdd4e0a8364c9b3129f98d477fa
+      internalID: -2024656083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f3c30162aaf9b4d86015d1a4fa9743
+      internalID: -900425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d65829717fcb6b44823fdba5d75e44a
+      internalID: -988656307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba616e88c8ba33f43b38ef0547fd1a3b
+      internalID: -718090864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28990c94f5e7143b4934db776a16ef
+      internalID: 2094594172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d40ff8c117ce6345a547ac96f886620
+      internalID: 703702424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a189f6723ff6704ca35ee95ef9285d6
+      internalID: -104214344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2393f94e1936e44938006b1c892fd3
+      internalID: 946351042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495f66ec575c0c74eb9087c799b459f5
+      internalID: -730960322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c533e82cb15945b9c96f30a07703c
+      internalID: 1691327977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409f4f0f31524f141a41d134eaad0ace
+      internalID: -381625668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0484bbb717adc40879c53e57454471
+      internalID: 742805885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b754a426dde224dacd939b8ba60aa9
+      internalID: -119606956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 546.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b4327a18a1fd947bf4791c06e3b4c1
+      internalID: 696016304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a92ea8855195441ba12a481609338e
+      internalID: -814502381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c8da90ff5048a48a24bef75abe20a9
+      internalID: 2422888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472db44dd95e7d947be83a28f09ec4c3
+      internalID: 1507753445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5923e7739d32c44b98b26ccb1b22db
+      internalID: 681712803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b109f784ad24744b5110178365070b
+      internalID: 923715167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145d442e44cde445b371e651019c07d
+      internalID: 777680450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2518479ed03eb469829b1c88649b21
+      internalID: 292278720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6fe7f04eeae904f8075feb04d228fb
+      internalID: -303000101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5ecd8e7e058be4d90b33a4766bb9ea
+      internalID: -216840959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dedf88f8a6f087499436d4225118e90
+      internalID: 1154703194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f1cf8477bbd1443b0b178161b5a938
+      internalID: 2046166612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44c8fbc0e933c49bfeb201c2717a31
+      internalID: 629312616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31afdaa06432e394b91f416904cc8872
+      internalID: -60944274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474f6be29a859f49b3ab87ae4d6625e
+      internalID: 2071746834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8bccc2253645e4fa59235f8de83aee
+      internalID: 2110585793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 514.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d29639cb7fc664e9f92bb1a03d9826
+      internalID: -485056343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c06442062d2fd46ad10723c1e1598b
+      internalID: 83335274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a043de5fbd6743a5630ea70a0065e
+      internalID: 640989939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b18f04d2713864bafbb03fa597250b
+      internalID: -794038607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372175050af727d4f81926e3a5d77676
+      internalID: -395113746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080dfea272788a4a974a0a5c156a445
+      internalID: -388573416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7403b02715e545a28fc6be4b68335
+      internalID: 2010426145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c7039bceb0554d8adff756bfbd3ff
+      internalID: 597293197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477b7e7d3c542ec40a6ec04f31afa50c
+      internalID: -1345620340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f3d4a9debb934db752dc4fd4f52bf
+      internalID: -923356775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a131e555747ca741a3a218953b7de83
+      internalID: 1727591450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3f28e6ecc7815449c062865d515925
+      internalID: 2105064258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530caa0e42e6eed4ab9ef4cafce79923
+      internalID: 1986461024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e00a80524f7d744839d27d7e10073a
+      internalID: -1461365263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12d4108218c4874b90b8b90c107eb14
+      internalID: -1849196273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d408b281ca79b4b8ad45609b0212ea
+      internalID: 543148722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 482.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f21735672a80e4fb4ca7aa70dd75fa
+      internalID: 1421733351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d373fc319f4c2814b855239cd5047641
+      internalID: 1875676594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfbff525b42b9949b22646b23b4427e
+      internalID: 1660036501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f88f073aa98184e9465f0eebcff3eb
+      internalID: -1134588922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dd2530f74a564498ca39dc46dc28f7
+      internalID: -1984618253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7a6695553ec2e42b416840a630b0bc
+      internalID: 2037387610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359321e203ed9914bb5aa2c96f73b472
+      internalID: -456033386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c67dce33448584a97bd516c7268919
+      internalID: 1715296237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7484e63dc59099f4fa4b3bb334ea5d8a
+      internalID: 1255597671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd892259568f0d24abf38707f78cc93d
+      internalID: 1698114785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0de573a4003f54b8143ec2f066a586
+      internalID: 1395869420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7cea845583e564ba52d2029a1b378e
+      internalID: -554315710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2462109ae668cb741a9d06a32e6e4d80
+      internalID: -1312839645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc2af8ebda21ac4685ffcb5a33a7500
+      internalID: 1681395756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aef95505f4e0841b12ffdbd8f7fe46
+      internalID: 284494982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf8efa426c6a44db699e338fa2feba
+      internalID: -250388666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 450.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e86ea6ef8607d47ac0c7959487bf85
+      internalID: -1195382412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de24bafd7c01564d9908ec5c2e1025d
+      internalID: 203729133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9be10d593d2294892083033e018438
+      internalID: 911186836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799078aa9e5f19f4b8ee5fd065b293c7
+      internalID: 719501003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47e4a9c0a29fe46a58e4108782fb9a
+      internalID: 259361172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846b8a4f3d68b44c839b545c6ceeee9
+      internalID: -507021405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e2f51c41fb048409a10200f9e41eac
+      internalID: 706446966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4542bd1ff0625f74cbf8afc4f4a92374
+      internalID: 407256472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa9502c8177fc43a373ff160912f9d
+      internalID: 1678525064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b9c329b100eb74b854d39055ca3fb6
+      internalID: -1008890828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc31e7227d7628c4ca922ed09fc4b4ce
+      internalID: -671534853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9960a142208de8647bcef5f355c8c62b
+      internalID: -522992663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04d59483c88d584bbaa68d4d8fd1e7d
+      internalID: 329508534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c63beac55ad154087d63aa0102f6ec
+      internalID: -649552591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_221
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261db100ecc6b9448e79fdddf1f68a2
+      internalID: 1570923017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae2d28af0627bb4784099378c4d9e52
+      internalID: 1388213565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 418.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f389d867abcc94eab1ac973f516878
+      internalID: 1067411772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49f69aeeb853c64cbcb4ffc72cc1a3e
+      internalID: 66300695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac9889e087e2c645bed6e66544d8302
+      internalID: -417066622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc5b9efaf93e6b459a817a31e65f6e9
+      internalID: -704071533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c904a3d4b2277c44b8b106b75ee694cf
+      internalID: -1448643019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3590c77c7c6ccfa4eaac303e283bce72
+      internalID: 2044450564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89628c1051e514746a75f07f9b38e900
+      internalID: 1374445850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d3254d11e234a4aa8199cf2bf22517
+      internalID: 1985757807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033a6113db39f374bb25a26592ad3ec0
+      internalID: -200205821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036ef8a703c7674b8803880876ca2fd
+      internalID: -1000620952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c65fc36e329c147ace311241e27e4e
+      internalID: -1471099930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f6df7ab06d3e745b6da2f977df44d2
+      internalID: -82240759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2bf3fd6ed96746a02f6a2dcc946a6
+      internalID: 1365673370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_236
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a5051d759375458fa4f3aca333c19
+      internalID: -726580017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe6d7fb029ad14c908d5a4387093dd
+      internalID: -1349969742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850dc0fc6ccf4884ea7aa0225b59f9de
+      internalID: 941854941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_239
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 386.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6cb61c0e0b37f43b58a095e39c1d85
+      internalID: 533400394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e99a3d2b41984f84162dc7a4c0933
+      internalID: 1286081761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6254ff01592974fb00ee1f90d08c89
+      internalID: 1903548121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf91ce33d2b524183276e4aaf1a111
+      internalID: -1659949327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d7eda72f207cf4883500d4370c49e1
+      internalID: -695871609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb85e6c0ef68db47ae985272ab179a6
+      internalID: 1620112139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c25c34bc4fa54d9fdf0f7e3f0f920
+      internalID: 836103851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924c87e27647a0408dc0f4333407a09
+      internalID: -718407116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fd6aa3528c41b4083d714a2ffa1b61
+      internalID: 1524010366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8cc92eaedf54c4fa8daede09c0aeb1
+      internalID: 1905141962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653d2bea7dde66e4d8a1706fe23dfa7f
+      internalID: -139281226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ff7161dc18b8949ad6939aeaed3653
+      internalID: -1231813264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03646d273a375f6489a6a995fb1d40a9
+      internalID: 2032380636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4962a20e1b15740b574568248c88fb
+      internalID: -703606647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ec32990f68f1742b5f2be6ac98aa20
+      internalID: 1423130088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58e5c6b1641104c93d02f00f2b29b2
+      internalID: 808167382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 354.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011d0c752f6abd243a33e4ef12579cb4
+      internalID: 696462308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8736ca448006e40a86e9ab9f57a204
+      internalID: -1811585162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_257
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b2aa92b889a6c45b4b282f15a1884e
+      internalID: 2131173896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_258
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43917f07252859949b35ce4be1c790e8
+      internalID: -603910267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_259
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8195406034d5c44c8952e21209329d3
+      internalID: -1583726307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_260
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b883c8e2904ccd47a2260b1cc5273c8
+      internalID: -783339016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_261
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede9eefdc74f6c64397c38f1dccf2fac
+      internalID: -714252640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_262
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998ff99d1cce3154182ed1cb75b2a43c
+      internalID: 799347302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_263
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a82916b91c21149b55461bdbbfa4a9
+      internalID: -625723296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_264
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef69a7b82d3b2540b8255d420f2acd3
+      internalID: -1071597724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_265
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7000a82c656124e90744296fa6129e
+      internalID: 1885033539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_266
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543527e2fe5a94a42a1d4fc85a2b66f4
+      internalID: -905928063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_267
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe4250cb3fa67478799b5e05b122d5
+      internalID: -697054821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_268
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da31cfc91bf9143a3fe51e9052d275
+      internalID: 1254877995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_269
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756d534c2fc87174ebc8edede0622f7f
+      internalID: 347184817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_270
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742cd68efe01af43b6919fe267253c9
+      internalID: -773462608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_271
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 322.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2527beb57955d4947a5b9107fde8df2b
+      internalID: 1686729849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84f5bf9220611408d0e89d4ec7188e
+      internalID: 2130673842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_273
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7c0dbf9895894abd71b2219d725b1
+      internalID: -749715294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_274
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c907fb3ccdf42fb45a7a011904267a78
+      internalID: 795510545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_275
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ac52f4d0c4077449cbd36d278cc4e7
+      internalID: 436063172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_276
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206eff30b054a243a16fbbd1a51dfe5
+      internalID: 1987286313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_277
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255c04254a54864babd8b805d357b4c
+      internalID: -1737330673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_278
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c4d7f39d577942b8dc21ae42831f3
+      internalID: 1724673003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_279
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ccfa2ad825e0b469ca2039a2aa3a20
+      internalID: -1160239314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_280
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b03fe4afaf3942929e1e1482bdcfc
+      internalID: -1924840794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_281
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facd1692480cde4499d02eda3fd2dec4
+      internalID: -1228493111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_282
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92394ab1e23080441b465f07a18ce09c
+      internalID: 421330668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_283
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041f367e1213e04891d19fdfd56fcf8
+      internalID: -699990685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_284
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d5125ded32de4b99529aeddd19b8a
+      internalID: -1300069393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_285
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b224f53c11a04842973b2a3bd4f00ac
+      internalID: -735543179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_286
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c41cbaf184de4ea4d1276243a0dc2
+      internalID: -897731028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_287
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 290.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d366fc9fa1c1ce44d9bd126e307cc94f
+      internalID: -1829886095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b768637ab31654438589272e6707417
+      internalID: -1411907421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_289
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e84be874ebf54b448c8a1b3290c3c58
+      internalID: -1658058059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_290
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd52c7b1e59da464fb2a06c7fad6d9e7
+      internalID: 2085741745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_291
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f3de6d770ddd4281f62c00fe8f556
+      internalID: 1557672693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_292
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef203830e125e0c4ba14be98f8574061
+      internalID: -1294733672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_293
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5562cd303c5f490458d4c10ec04e125f
+      internalID: -1126391249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_294
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7817162584d14796a58ffd468de0e
+      internalID: -1081180653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_295
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b826165c967598459d4fa2ab14f5ce2
+      internalID: 1277207497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_296
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eedf0562406b434e9925304d4730d99
+      internalID: -1175432521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_297
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cfc52c85dbff544be2edc808f32c38
+      internalID: -1731767575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_298
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be5b908940d2104c92dea50c21d6cc8
+      internalID: -517746114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_299
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9642d2af07376664e85007e318e9d300
+      internalID: -705383518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_300
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649942ba9f4244e41801e7ba5114b832
+      internalID: -1440361065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_301
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58594b0257528d54c9475da617a0f96c
+      internalID: -1127063895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_302
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a04dbe181b414498e0f978159d68f
+      internalID: 808671376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_303
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 258.8889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da56245d34f5f64e8ce08dc00215044
+      internalID: 1125853328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_304
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e189b9e05d413d46a4519723ad41743
+      internalID: -316312439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_305
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947fd403c8d5b245a3d6aab9aae014e
+      internalID: -1638878193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_306
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3ae6b8e39acce4aa57bc6b6bc1f80b
+      internalID: 307322501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_307
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7365f5c3c64e9ac4888fac37cede2efa
+      internalID: -2014075333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_308
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c481bdb9aaf1b2409a6155989ba350a
+      internalID: -715184724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_309
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d02742db3f8a5449f8e96d075492e0
+      internalID: 668238085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_310
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ec503752b497498a2245e8762e7ca
+      internalID: -1260021492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_311
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3aa95bf10bf604b9923b6397e0a75e
+      internalID: -1549106015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_312
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982dd516be4ceb04d99414da8d314fa8
+      internalID: -1226877561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_313
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6562861d5a3f9d447868c2c6b7c7111b
+      internalID: 1356544035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_314
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc68d211304824db933154f1a6d5dc
+      internalID: -1351621088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_315
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148600fc972f7614cb90e33495537df8
+      internalID: -476538143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_316
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55268aa7521d1a6439ecc12dd23454dd
+      internalID: 268850214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_317
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804bc988b34da114baa874d1e4cb4fcc
+      internalID: 471960866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_318
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710aef02d49af14ba0c2eeb0cf7361a
+      internalID: -986644087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_319
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 226.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bbe02815da337489992b72502143bd
+      internalID: 284453582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_320
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ef5f5c068fdfc44b4f73f2e0a5a45c
+      internalID: 506746061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_321
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f6550316b3ce4ea1c853005338128
+      internalID: 1214664876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_322
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d01dd9d4733e24f9ac8b6949e28322
+      internalID: 1255533214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_323
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff67c07471226449853f5886eedf710
+      internalID: -618003250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_324
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca232918345e548879181865de7ea8
+      internalID: -673780120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_325
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c87dceeb9845640b090aa9b2428137
+      internalID: -349123864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_326
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a352c409b07993e40b512adf69b9a9cd
+      internalID: -1943718265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_327
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f84eb052ff0d42a7bab9526d17327
+      internalID: 216671641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_328
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddacd5993958a444f88b4a44cfd7b2ee
+      internalID: -861676619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_329
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250f840592209d48ab2be12bc0ebdc6
+      internalID: 940058578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_330
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e3b6423e0307a498e99c887bae51db
+      internalID: 712572488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_331
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0d5216d6ee03458b2d615b7559d15
+      internalID: -1923239265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_332
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098f3e61107b89d49ae885c622eac47d
+      internalID: 671304070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_333
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbb604165167a645baebbf4a38727cd
+      internalID: -1694109625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_334
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f7fe1edfcae84e8d865dbb23978c9
+      internalID: -1494994896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_335
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 194.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d578dc0c632d347b0a5401733e0103
+      internalID: -151010809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_336
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8942f15db773af4c920b71814094535
+      internalID: -582834244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_337
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0d575689c3a34e99897da11e480f6
+      internalID: 1836271142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_338
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0cfb717bc86414db274bef764432c1
+      internalID: -738211263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_339
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df189903629c4c4ca813194cb69f4e7
+      internalID: 246482297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_340
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c0b20996f1f9d45b98ed1f43a7bb5f
+      internalID: -2137857566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_341
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25544bff0c7004d962bfa00785198b
+      internalID: -327485013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_342
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfae5a4b1f3aef84788f1fdd0b2ebc14
+      internalID: 1919591949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_343
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552378c00a29e141802e6e2c2b22088
+      internalID: -2039635986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_344
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8060c993da90d5241bf5a4065c61fcb3
+      internalID: 97256373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_345
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187411bff43eae4da9f440bf5819132
+      internalID: -314927584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_346
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6688932cfb97e141a4011ccf394ff4a
+      internalID: 2051556341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_347
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08243613f03567a408643ec145e41c06
+      internalID: 1733853107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_348
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51a9436288ab614793f62bad47f25bd
+      internalID: 1208948997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_349
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a45b894ca6ae449bc71a999fb0beb5
+      internalID: -1075270388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_350
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f899db06681a4f8bd4397cc5a8d69
+      internalID: 1662830712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Icon_351
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 162.88889
+        width: 32
+        height: 32.11111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdca0bfe7033614796833e7779d78fd
+      internalID: -100172326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blue_Icon_0: 1946807017
+      Blue_Icon_1: -1077997191
+      Blue_Icon_10: 368813398
+      Blue_Icon_100: 2111469078
+      Blue_Icon_101: -354317492
+      Blue_Icon_102: 817428599
+      Blue_Icon_103: 1913859658
+      Blue_Icon_104: -458752743
+      Blue_Icon_105: -1084667504
+      Blue_Icon_106: -259611338
+      Blue_Icon_107: -746389506
+      Blue_Icon_108: 743912770
+      Blue_Icon_109: -684001359
+      Blue_Icon_11: 474753967
+      Blue_Icon_110: 794567465
+      Blue_Icon_111: -1188076837
+      Blue_Icon_112: 281416568
+      Blue_Icon_113: -1001839889
+      Blue_Icon_114: 1070640211
+      Blue_Icon_115: 84553318
+      Blue_Icon_116: 250488916
+      Blue_Icon_117: 411450341
+      Blue_Icon_118: 1330675786
+      Blue_Icon_119: 1928139634
+      Blue_Icon_12: 1808633766
+      Blue_Icon_120: 1461683634
+      Blue_Icon_121: -927403481
+      Blue_Icon_122: 473069582
+      Blue_Icon_123: 988634446
+      Blue_Icon_124: 1756353473
+      Blue_Icon_125: -1982152488
+      Blue_Icon_126: -1947321459
+      Blue_Icon_127: -832653772
+      Blue_Icon_128: -2007674119
+      Blue_Icon_129: 569525983
+      Blue_Icon_13: -1891583400
+      Blue_Icon_130: 2086662516
+      Blue_Icon_131: 1316491697
+      Blue_Icon_132: 1379394790
+      Blue_Icon_133: 478851170
+      Blue_Icon_134: 1507681996
+      Blue_Icon_135: -1964620643
+      Blue_Icon_136: 1965709577
+      Blue_Icon_137: -1945429462
+      Blue_Icon_138: -673774137
+      Blue_Icon_139: 375007239
+      Blue_Icon_14: -641562478
+      Blue_Icon_140: 1818962304
+      Blue_Icon_141: 862398067
+      Blue_Icon_142: 1019508472
+      Blue_Icon_143: -526460394
+      Blue_Icon_144: 1306365136
+      Blue_Icon_145: -486686475
+      Blue_Icon_146: -2024656083
+      Blue_Icon_147: -900425
+      Blue_Icon_148: -988656307
+      Blue_Icon_149: -718090864
+      Blue_Icon_15: -886705577
+      Blue_Icon_150: 2094594172
+      Blue_Icon_151: 703702424
+      Blue_Icon_152: -104214344
+      Blue_Icon_153: 946351042
+      Blue_Icon_154: -730960322
+      Blue_Icon_155: 1691327977
+      Blue_Icon_156: -381625668
+      Blue_Icon_157: 742805885
+      Blue_Icon_158: -119606956
+      Blue_Icon_159: 696016304
+      Blue_Icon_16: 60151281
+      Blue_Icon_160: -814502381
+      Blue_Icon_161: 2422888
+      Blue_Icon_162: 1507753445
+      Blue_Icon_163: 681712803
+      Blue_Icon_164: 923715167
+      Blue_Icon_165: 777680450
+      Blue_Icon_166: 292278720
+      Blue_Icon_167: -303000101
+      Blue_Icon_168: -216840959
+      Blue_Icon_169: 1154703194
+      Blue_Icon_17: -1549050578
+      Blue_Icon_170: 2046166612
+      Blue_Icon_171: 629312616
+      Blue_Icon_172: -60944274
+      Blue_Icon_173: 2071746834
+      Blue_Icon_174: 2110585793
+      Blue_Icon_175: -485056343
+      Blue_Icon_176: 83335274
+      Blue_Icon_177: 640989939
+      Blue_Icon_178: -794038607
+      Blue_Icon_179: -395113746
+      Blue_Icon_18: -1390768973
+      Blue_Icon_180: -388573416
+      Blue_Icon_181: 2010426145
+      Blue_Icon_182: 597293197
+      Blue_Icon_183: -1345620340
+      Blue_Icon_184: -923356775
+      Blue_Icon_185: 1727591450
+      Blue_Icon_186: 2105064258
+      Blue_Icon_187: 1986461024
+      Blue_Icon_188: -1461365263
+      Blue_Icon_189: -1849196273
+      Blue_Icon_19: -965063247
+      Blue_Icon_190: 543148722
+      Blue_Icon_191: 1421733351
+      Blue_Icon_192: 1875676594
+      Blue_Icon_193: 1660036501
+      Blue_Icon_194: -1134588922
+      Blue_Icon_195: -1984618253
+      Blue_Icon_196: 2037387610
+      Blue_Icon_197: -456033386
+      Blue_Icon_198: 1715296237
+      Blue_Icon_199: 1255597671
+      Blue_Icon_2: 29986111
+      Blue_Icon_20: 259092889
+      Blue_Icon_200: 1698114785
+      Blue_Icon_201: 1395869420
+      Blue_Icon_202: -554315710
+      Blue_Icon_203: -1312839645
+      Blue_Icon_204: 1681395756
+      Blue_Icon_205: 284494982
+      Blue_Icon_206: -250388666
+      Blue_Icon_207: -1195382412
+      Blue_Icon_208: 203729133
+      Blue_Icon_209: 911186836
+      Blue_Icon_21: -868688934
+      Blue_Icon_210: 719501003
+      Blue_Icon_211: 259361172
+      Blue_Icon_212: -507021405
+      Blue_Icon_213: 706446966
+      Blue_Icon_214: 407256472
+      Blue_Icon_215: 1678525064
+      Blue_Icon_216: -1008890828
+      Blue_Icon_217: -671534853
+      Blue_Icon_218: -522992663
+      Blue_Icon_219: 329508534
+      Blue_Icon_22: 312875448
+      Blue_Icon_220: -649552591
+      Blue_Icon_221: 1570923017
+      Blue_Icon_222: 1388213565
+      Blue_Icon_223: 1067411772
+      Blue_Icon_224: 66300695
+      Blue_Icon_225: -417066622
+      Blue_Icon_226: -704071533
+      Blue_Icon_227: -1448643019
+      Blue_Icon_228: 2044450564
+      Blue_Icon_229: 1374445850
+      Blue_Icon_23: 267652729
+      Blue_Icon_230: 1985757807
+      Blue_Icon_231: -200205821
+      Blue_Icon_232: -1000620952
+      Blue_Icon_233: -1471099930
+      Blue_Icon_234: -82240759
+      Blue_Icon_235: 1365673370
+      Blue_Icon_236: -726580017
+      Blue_Icon_237: -1349969742
+      Blue_Icon_238: 941854941
+      Blue_Icon_239: 533400394
+      Blue_Icon_24: -1983002612
+      Blue_Icon_240: 1286081761
+      Blue_Icon_241: 1903548121
+      Blue_Icon_242: -1659949327
+      Blue_Icon_243: -695871609
+      Blue_Icon_244: 1620112139
+      Blue_Icon_245: 836103851
+      Blue_Icon_246: -718407116
+      Blue_Icon_247: 1524010366
+      Blue_Icon_248: 1905141962
+      Blue_Icon_249: -139281226
+      Blue_Icon_25: -953512045
+      Blue_Icon_250: -1231813264
+      Blue_Icon_251: 2032380636
+      Blue_Icon_252: -703606647
+      Blue_Icon_253: 1423130088
+      Blue_Icon_254: 808167382
+      Blue_Icon_255: 696462308
+      Blue_Icon_256: -1811585162
+      Blue_Icon_257: 2131173896
+      Blue_Icon_258: -603910267
+      Blue_Icon_259: -1583726307
+      Blue_Icon_26: 1241343537
+      Blue_Icon_260: -783339016
+      Blue_Icon_261: -714252640
+      Blue_Icon_262: 799347302
+      Blue_Icon_263: -625723296
+      Blue_Icon_264: -1071597724
+      Blue_Icon_265: 1885033539
+      Blue_Icon_266: -905928063
+      Blue_Icon_267: -697054821
+      Blue_Icon_268: 1254877995
+      Blue_Icon_269: 347184817
+      Blue_Icon_27: 852341211
+      Blue_Icon_270: -773462608
+      Blue_Icon_271: 1686729849
+      Blue_Icon_272: 2130673842
+      Blue_Icon_273: -749715294
+      Blue_Icon_274: 795510545
+      Blue_Icon_275: 436063172
+      Blue_Icon_276: 1987286313
+      Blue_Icon_277: -1737330673
+      Blue_Icon_278: 1724673003
+      Blue_Icon_279: -1160239314
+      Blue_Icon_28: 1952343450
+      Blue_Icon_280: -1924840794
+      Blue_Icon_281: -1228493111
+      Blue_Icon_282: 421330668
+      Blue_Icon_283: -699990685
+      Blue_Icon_284: -1300069393
+      Blue_Icon_285: -735543179
+      Blue_Icon_286: -897731028
+      Blue_Icon_287: -1829886095
+      Blue_Icon_288: -1411907421
+      Blue_Icon_289: -1658058059
+      Blue_Icon_29: 1013491918
+      Blue_Icon_290: 2085741745
+      Blue_Icon_291: 1557672693
+      Blue_Icon_292: -1294733672
+      Blue_Icon_293: -1126391249
+      Blue_Icon_294: -1081180653
+      Blue_Icon_295: 1277207497
+      Blue_Icon_296: -1175432521
+      Blue_Icon_297: -1731767575
+      Blue_Icon_298: -517746114
+      Blue_Icon_299: -705383518
+      Blue_Icon_3: -2080273077
+      Blue_Icon_30: -1357479499
+      Blue_Icon_300: -1440361065
+      Blue_Icon_301: -1127063895
+      Blue_Icon_302: 808671376
+      Blue_Icon_303: 1125853328
+      Blue_Icon_304: -316312439
+      Blue_Icon_305: -1638878193
+      Blue_Icon_306: 307322501
+      Blue_Icon_307: -2014075333
+      Blue_Icon_308: -715184724
+      Blue_Icon_309: 668238085
+      Blue_Icon_31: -1393688007
+      Blue_Icon_310: -1260021492
+      Blue_Icon_311: -1549106015
+      Blue_Icon_312: -1226877561
+      Blue_Icon_313: 1356544035
+      Blue_Icon_314: -1351621088
+      Blue_Icon_315: -476538143
+      Blue_Icon_316: 268850214
+      Blue_Icon_317: 471960866
+      Blue_Icon_318: -986644087
+      Blue_Icon_319: 284453582
+      Blue_Icon_32: 247166323
+      Blue_Icon_320: 506746061
+      Blue_Icon_321: 1214664876
+      Blue_Icon_322: 1255533214
+      Blue_Icon_323: -618003250
+      Blue_Icon_324: -673780120
+      Blue_Icon_325: -349123864
+      Blue_Icon_326: -1943718265
+      Blue_Icon_327: 216671641
+      Blue_Icon_328: -861676619
+      Blue_Icon_329: 940058578
+      Blue_Icon_33: -1973664399
+      Blue_Icon_330: 712572488
+      Blue_Icon_331: -1923239265
+      Blue_Icon_332: 671304070
+      Blue_Icon_333: -1694109625
+      Blue_Icon_334: -1494994896
+      Blue_Icon_335: -151010809
+      Blue_Icon_336: -582834244
+      Blue_Icon_337: 1836271142
+      Blue_Icon_338: -738211263
+      Blue_Icon_339: 246482297
+      Blue_Icon_34: 1443264079
+      Blue_Icon_340: -2137857566
+      Blue_Icon_341: -327485013
+      Blue_Icon_342: 1919591949
+      Blue_Icon_343: -2039635986
+      Blue_Icon_344: 97256373
+      Blue_Icon_345: -314927584
+      Blue_Icon_346: 2051556341
+      Blue_Icon_347: 1733853107
+      Blue_Icon_348: 1208948997
+      Blue_Icon_349: -1075270388
+      Blue_Icon_35: 1938562104
+      Blue_Icon_350: 1662830712
+      Blue_Icon_351: -100172326
+      Blue_Icon_36: -1351819100
+      Blue_Icon_37: -1402739529
+      Blue_Icon_38: -153022686
+      Blue_Icon_39: 1840804521
+      Blue_Icon_4: 327334094
+      Blue_Icon_40: -573605222
+      Blue_Icon_41: 1993004039
+      Blue_Icon_42: -1998481563
+      Blue_Icon_43: -329597905
+      Blue_Icon_44: 316592932
+      Blue_Icon_45: 1882950586
+      Blue_Icon_46: -1901917666
+      Blue_Icon_47: 609653010
+      Blue_Icon_48: 2086161267
+      Blue_Icon_49: 1752870847
+      Blue_Icon_5: -105989361
+      Blue_Icon_50: -501677605
+      Blue_Icon_51: -1297474007
+      Blue_Icon_52: 1125651142
+      Blue_Icon_53: -1141024632
+      Blue_Icon_54: 1356329049
+      Blue_Icon_55: -452998086
+      Blue_Icon_56: 719759120
+      Blue_Icon_57: 1710921236
+      Blue_Icon_58: 1267388593
+      Blue_Icon_59: -1167373094
+      Blue_Icon_6: 1379011839
+      Blue_Icon_60: -182313802
+      Blue_Icon_61: 121015595
+      Blue_Icon_62: -1688180699
+      Blue_Icon_63: 446559937
+      Blue_Icon_64: -28959705
+      Blue_Icon_65: 24982527
+      Blue_Icon_66: 1713840434
+      Blue_Icon_67: -752051727
+      Blue_Icon_68: 180274974
+      Blue_Icon_69: 1826619574
+      Blue_Icon_7: 529804289
+      Blue_Icon_70: -1726496802
+      Blue_Icon_71: -1987877638
+      Blue_Icon_72: -692669922
+      Blue_Icon_73: -911846037
+      Blue_Icon_74: 1907152103
+      Blue_Icon_75: 1950789992
+      Blue_Icon_76: -1751816749
+      Blue_Icon_77: 300448671
+      Blue_Icon_78: -1380407048
+      Blue_Icon_79: -1689789103
+      Blue_Icon_8: -1566645256
+      Blue_Icon_80: 1702170484
+      Blue_Icon_81: -1811032127
+      Blue_Icon_82: -1986200607
+      Blue_Icon_83: 1413939833
+      Blue_Icon_84: -1811652784
+      Blue_Icon_85: 2020533816
+      Blue_Icon_86: 169593364
+      Blue_Icon_87: 340415636
+      Blue_Icon_88: -1842993013
+      Blue_Icon_89: -114887094
+      Blue_Icon_9: -474472593
+      Blue_Icon_90: -37357827
+      Blue_Icon_91: -730063354
+      Blue_Icon_92: -1042343854
+      Blue_Icon_93: -623871807
+      Blue_Icon_94: -1608112617
+      Blue_Icon_95: 736033370
+      Blue_Icon_96: 801039544
+      Blue_Icon_97: -1210939730
+      Blue_Icon_98: 552641973
+      Blue_Icon_99: 1171942655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

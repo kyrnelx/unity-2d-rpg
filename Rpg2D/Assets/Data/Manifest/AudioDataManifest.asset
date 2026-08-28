@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d784bfac1a1a40288704d4bbad628815, type: 3}
+  m_Name: AudioDataManifest
+  m_EditorClassIdentifier: Assembly-CSharp::AudioDataManifest
+  audioDataList:
+  - {fileID: 11400000, guid: d9debe484c22d42738163d4c8022118e, type: 2}
+  - {fileID: 11400000, guid: d085d73b0d12849fda05d5ccffc38612, type: 2}
+  - {fileID: 11400000, guid: f34df85fbbc3b4a93ba94bd7c9a8c698, type: 2}
+  - {fileID: 11400000, guid: 9fadeff768187e84b8e0c820b6777d47, type: 2}
+  - {fileID: 11400000, guid: 945dbaff0de79fd4f83628bebafd08e5, type: 2}
+  - {fileID: 11400000, guid: fb585504676e88b4d8b89592f74fde9c, type: 2}
+  - {fileID: 11400000, guid: 16f68e096a58ee14f8f72adcf8ab1dc5, type: 2}
+  - {fileID: 11400000, guid: 259326de8c5daaf49a7a0509acc312ae, type: 2}
+  - {fileID: 11400000, guid: 6c19e809734e44b5eba71db1e2ba53fa, type: 2}
+  - {fileID: 11400000, guid: 0688f064222ce4df394801c02122aa5e, type: 2}
+  - {fileID: 11400000, guid: 20e17e6f9ee1b4d82bf75234d65a7218, type: 2}
+  - {fileID: 11400000, guid: 55e18d4650eb34ce98c46a8b4c09d96c, type: 2}
+  - {fileID: 11400000, guid: 7b2a7027f59794d50ade243f1b3cd307, type: 2}
+  - {fileID: 11400000, guid: 31704c2f2e6f9497aa769433fd93c9c7, type: 2}
+  - {fileID: 11400000, guid: 1e8d3029c589f48eb83957e485fa9cc8, type: 2}
+  - {fileID: 11400000, guid: de3da601f1c6a49a3bec758413d678a1, type: 2}
+  - {fileID: 11400000, guid: e7a5808681e964ab1b1551d3d9995724, type: 2}
+  - {fileID: 11400000, guid: 13c911f0ef8a04c7bb7fe28225e09516, type: 2}
+  - {fileID: 11400000, guid: 7e8b53a0558a54858981b90d21c77579, type: 2}
+  - {fileID: 11400000, guid: 19b3a2797f65e49e9a40588360f55a21, type: 2}
+  - {fileID: 11400000, guid: a464d0df9b52b4837828dcc5225d7a08, type: 2}
