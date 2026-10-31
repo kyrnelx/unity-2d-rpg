@@ -1,8 +1,6 @@
 # 2D RPG · Rpg2D
 
-Unity **2022.3.62f3c1** · Built-in 渲染管线
-
-用 Unity 打开 `Rpg2D/`，运行 `Assets/Scenes/MainMenuScene.unity`。
+Unity 2022.3.62f3c1 LTS
 
 ## 操作
 
